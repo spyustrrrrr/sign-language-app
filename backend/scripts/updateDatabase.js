@@ -11,21 +11,26 @@ async function updateDatabase() {
     await mongoose.connect(process.env.MONGODB_URI);
     console.log('✅ Connected to MongoDB');
     
-    for (const [letter, info] of Object.entries(data)) {
+    let count = 0;
+    
+    for (const [character, info] of Object.entries(data)) {
       const result = await Sign.findOneAndUpdate(
-        { character: letter, type: 'alphabet' },
+        { character: character, type: info.type },
         { 
-          mediaUrl: info.url,
+          character: character,
+          type: info.type,
           mediaType: 'image',
+          mediaUrl: info.url,
           description: info.description,
-          example: `Contoh penggunaan: ${letter} seperti pada kata "${letter}"`
+          example: `Contoh: ${character}`
         },
         { new: true, upsert: true }
       );
-      console.log(`✅ Updated ${letter}: ${result.character}`);
+      console.log(`✅ ${result.type.toUpperCase()}: ${result.character}`);
+      count++;
     }
     
-    console.log('\n✅ All data updated to database!');
+    console.log(`\n✅ ${count} data berhasil diupdate ke database!`);
     process.exit(0);
   } catch (error) {
     console.error('❌ Error:', error);

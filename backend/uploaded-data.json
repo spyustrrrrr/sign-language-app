@@ -1,105 +1,176 @@
 {
+  "1": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130381/sign-language/numbers/angka_1.jpg",
+    "description": "Telunjuk lurus ke atas, jari-jari lainnya mengepal."
+  },
+  "2": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130382/sign-language/numbers/angka_2.jpg",
+    "description": "Telunjuk dan jari tengah lurus ke atas membentuk V, jari lainnya mengepal."
+  },
+  "3": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130383/sign-language/numbers/angka_3.jpg",
+    "description": "Telunjuk, jari tengah, jari manis lurus ke atas, ibu jari dan kelingking mengepal."
+  },
+  "4": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130384/sign-language/numbers/angka_4.jpg",
+    "description": "Keempat jari lurus ke atas, ibu jari menekuk ke dalam telapak."
+  },
+  "5": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130385/sign-language/numbers/angka_5.jpg",
+    "description": "Kelima jari terbuka lebar, telapak tangan menghadap ke depan."
+  },
+  "6": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130386/sign-language/numbers/angka_6.jpg",
+    "description": "Ibu jari dan kelingking lurus ke samping, jari lainnya mengepal."
+  },
+  "7": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130387/sign-language/numbers/angka_7.jpg",
+    "description": "Ibu jari, telunjuk, jari tengah lurus ke samping, jari lainnya mengepal."
+  },
+  "8": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130388/sign-language/numbers/angka_8.jpg",
+    "description": "Ibu jari dan telunjuk lurus ke samping membentuk L, jari lainnya mengepal."
+  },
+  "9": {
+    "type": "number",
+    "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775130389/sign-language/numbers/angka_9.jpg",
+    "description": "Telunjuk membengkok seperti kait, jari lainnya mengepal."
+  },
   "A": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775062575/sign-language/alphabets/huruf_A.jpg",
     "description": "Kepalan tangan dengan ibu jari di samping. Telapak tangan menghadap ke depan."
   },
   "B": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063360/sign-language/alphabets/huruf_B.jpg",
     "description": "Telapak tangan terbuka lebar, ibu jari menekuk ke dalam. Keempat jari lurus rapat."
   },
   "C": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063361/sign-language/alphabets/huruf_C.jpg",
     "description": "Tangan membentuk huruf C, jari-jari melengkung seperti memegang gelas."
   },
   "D": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063362/sign-language/alphabets/huruf_D.jpg",
     "description": "Telunjuk lurus ke atas, jari-jari lainnya mengepal, ibu jari menekuk di atas jari tengah."
   },
   "E": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063364/sign-language/alphabets/huruf_E.jpg",
     "description": "Jari-jari membentuk huruf E, ibu jari menekuk di depan jari lainnya."
   },
   "F": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063365/sign-language/alphabets/huruf_F.jpg",
     "description": "Ibu jari dan telunjuk membentuk lingkaran, jari lainnya lurus ke atas."
   },
   "G": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063366/sign-language/alphabets/huruf_G.jpg",
     "description": "Telunjuk lurus ke samping, ibu jari sejajar, jari lainnya mengepal."
   },
   "H": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063367/sign-language/alphabets/huruf_H.jpg",
     "description": "Telunjuk dan jari tengah lurus ke samping, jari lainnya mengepal."
   },
   "I": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063369/sign-language/alphabets/huruf_I.jpg",
     "description": "Kelingking lurus ke atas, ibu jari menekuk di atas jari manis."
   },
   "J": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063370/sign-language/alphabets/huruf_J.jpg",
     "description": "Kelingking lurus, gerakan membentuk huruf J dari atas ke bawah."
   },
   "K": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063371/sign-language/alphabets/huruf_K.jpg",
     "description": "Telunjuk dan jari tengah lurus ke atas membentuk V, ibu jari di antara."
   },
   "L": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063372/sign-language/alphabets/huruf_L.jpg",
     "description": "Ibu jari dan telunjuk membentuk huruf L, jari lainnya mengepal."
   },
   "M": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063373/sign-language/alphabets/huruf_M.jpg",
     "description": "Ibu jari di bawah jari telunjuk, tengah, dan manis yang mengepal."
   },
   "N": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063375/sign-language/alphabets/huruf_N.jpg",
     "description": "Ibu jari di antara jari telunjuk dan tengah, jari lainnya mengepal."
   },
   "O": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063376/sign-language/alphabets/huruf_O.jpg",
     "description": "Jari-jari membentuk lingkaran seperti huruf O, ibu jari dan telunjuk menyentuh."
   },
   "P": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063377/sign-language/alphabets/huruf_P.jpg",
     "description": "Telunjuk lurus ke bawah, ibu jari sejajar, jari lainnya mengepal."
   },
   "Q": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063379/sign-language/alphabets/huruf_Q.jpg",
     "description": "Telunjuk dan ibu jari membentuk Q, jari lainnya mengepal."
   },
   "R": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063380/sign-language/alphabets/huruf_R.jpg",
     "description": "Telunjuk dan jari tengah menyilang, jari lainnya mengepal."
   },
   "S": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063381/sign-language/alphabets/huruf_S.jpg",
     "description": "Kepalan tangan, ibu jari di depan jari telunjuk."
   },
   "T": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063382/sign-language/alphabets/huruf_T.jpg",
     "description": "Ibu jari di antara telunjuk dan jari tengah, jari lainnya mengepal."
   },
   "U": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063383/sign-language/alphabets/huruf_U.jpg",
     "description": "Telunjuk dan jari tengah lurus ke atas, jari lainnya mengepal."
   },
   "V": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063384/sign-language/alphabets/huruf_V.jpg",
     "description": "Telunjuk dan jari tengah membentuk huruf V, jari lainnya mengepal."
   },
   "W": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063385/sign-language/alphabets/huruf_W.jpg",
     "description": "Telunjuk, jari tengah, jari manis lurus ke atas, jari lainnya mengepal."
   },
   "X": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063386/sign-language/alphabets/huruf_X.jpg",
     "description": "Telunjuk membengkok membentuk huruf X, ibu jari menekuk."
   },
   "Y": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063387/sign-language/alphabets/huruf_Y.jpg",
     "description": "Ibu jari dan kelingking lurus ke samping, jari lainnya mengepal."
   },
   "Z": {
+    "type": "alphabet",
     "url": "https://res.cloudinary.com/dylf1iuri/image/upload/v1775063389/sign-language/alphabets/huruf_Z.jpg",
     "description": "Telunjuk lurus, gerakan membentuk huruf Z di udara."
   }
